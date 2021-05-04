@@ -117,7 +117,6 @@ function [] = plotPoints(~,~)
 
 end
 
-%reset function resets all uicontrols and the plot
 function [] = reset(~,~, x, y)
 
     global gui
